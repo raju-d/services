@@ -4,13 +4,25 @@
       "id": "9c51",
       "name": "raju",
       "email": "raju@gmail.com",
-      "password": "raju1234"
+      "password": "Raju"
     },
     {
       "id": "d518",
       "name": "naveen",
       "email": "naveen@gmail.com",
       "password": "naveen1234"
+    },
+    {
+      "id": "3175",
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "password": "sai1234"
+    },
+    {
+      "id": "b179",
+      "name": "srikanth",
+      "email": "srikanth@gmail.com",
+      "password": "Srikanth"
     }
   ]
 }

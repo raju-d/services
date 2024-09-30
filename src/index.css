@@ -11,3 +11,18 @@ body {
     justify-content: center;
     align-items: center;
 }
+/* 
+.loginForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.input-field {
+    padding: 10px;
+}
+
+.login-button {
+    padding: 10px;
+} */
